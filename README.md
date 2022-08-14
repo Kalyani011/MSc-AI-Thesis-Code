@@ -22,7 +22,7 @@ Following files need to be run in the given order to reproduce the results repor
 4. analyse_communities.ipynb
 5. similarity_score_calculation.ipynb
 
-The similarity_score_calculation.ipynb file generates a list of credibility scores for each tweet in the dataset and performs evaluation to get precision, recall and f-measure scores achieved by the system. The original results reported in the thesis have been uploaded to the evaluation -> thesis_results folder.
+The similarity_score_calculation.ipynb file generates a list of credibility scores for each tweet in the dataset and performs evaluation to get precision, recall and f-measure scores achieved by the system. The original results reported in the thesis have been uploaded to the **evaluation** folder.
 
 6. word_ngrams_supervised.ipynb file contains the implementation of the supervised approach presented in [3] and generates precision, recall, and f-measure scores for a given dataset as output.
 
