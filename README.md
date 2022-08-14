@@ -8,9 +8,9 @@ Twitter generates and distributes both credible and non-credible information at 
 
 # Prerequisites for running the project:
 
-1. CrisisMMD Dataset: The dataset can be downloaded from [1]. This work has used version 2 of the dataset. The annotations files contain tab-separated files for each climate event which contains tweet ids used to create custom datasets for this research.
+1. CrisisMMD Dataset: The dataset can be downloaded from [1](https://crisisnlp.qcri.org/crisismmd). This work has used version 2 of the dataset. The annotations files contain tab-separated files for each climate event which contains tweet ids used to create custom datasets for this research.
 
-2. Twitter API Keys: To access the Twitter APIs used in this research, a Twitter developer account needs to be created which then allows the creation of a project and an app under that project. API keys and bearer tokens need to be generated for the app created under a project, and these keys and tokens can then be used for making the API requests. [2] provides guidelines for obtaining the keys and tokens. For the purpose of this research all API keys and Tokens are saved in a text file as a json object and read directly from the file. The API keys file associated with this research has not been committed to the repository for privacy reasons. 
+2. Twitter API Keys: To access the Twitter APIs used in this research, a Twitter developer account needs to be created which then allows the creation of a project and an app under that project. API keys and bearer tokens need to be generated for the app created under a project, and these keys and tokens can then be used for making the API requests. [2](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api) provides guidelines for obtaining the keys and tokens. For the purpose of this research all API keys and Tokens are saved in a text file as a json object and read directly from the file. The API keys file associated with this research has not been committed to the repository for privacy reasons. 
 
 # Thesis Code:
 
@@ -30,8 +30,8 @@ The similarity_score_calculation.ipynb file generates a list of credibility scor
 
 
 # References:
-[1] “Crisismmd: Multimodal crisis dataset,” [Online]. Available: [https://crisisnlp.qcri.org/crisismmd] (https://crisisnlp.qcri.org/crisismmd)
+[1] “Crisismmd: Multimodal crisis dataset,” [Online]. Available: https://crisisnlp.qcri.org/crisismmd
 
-[2] Twitter Developer Platform, “Getting started: How to get access to the Twitter API,” [Online]. Available: [https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
+[2] Twitter Developer Platform, “Getting started: How to get access to the Twitter API,” [Online]. Available: https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
 
-[3] N. Hassan, W. Gomaa, G. Khoriba, and M. Haggag, “Credibility detection in twitter using word n-gram analysis and supervised machine learning techniques,” International Journal of Intelligent Engineering and Systems, vol. 13, pp. 291–300, Dec. 2020. [Online]. Available: [https://doi.org/10.22266/ijies2020.0229.27](https://doi.org/10.22266/ijies2020.0229.27)
+[3] N. Hassan, W. Gomaa, G. Khoriba, and M. Haggag, “Credibility detection in twitter using word n-gram analysis and supervised machine learning techniques,” International Journal of Intelligent Engineering and Systems, vol. 13, pp. 291–300, Dec. 2020. [Online]. Available: https://doi.org/10.22266/ijies2020.0229.27
