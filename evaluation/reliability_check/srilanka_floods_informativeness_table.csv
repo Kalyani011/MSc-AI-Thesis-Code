@@ -1,0 +1,5 @@
+,community overlap name,total tweets,informative tweets,not informative tweets
+0,author_url_retweets_overlap_tweets,6,0,6
+1,followers_url_retweets_overlap_tweets,8,2,6
+2,author_followers_retweets_overlap_tweets,83,38,45
+3,author_url_followers_overlap_tweets,10,1,9

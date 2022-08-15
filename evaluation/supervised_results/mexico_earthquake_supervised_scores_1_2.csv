@@ -1,0 +1,6 @@
+,classifier,precision,recall,f1
+0,Linear SVM,0.7512,0.9883,0.8535
+1,Logistic Regression,0.7443,1,0.8534
+2,Random Forest,0.7459,1,0.8534
+3,Naive Bayes,0.7921,0.7935,0.792
+4,K-Nearest Neighbour,0.7612,0.9359,0.8394

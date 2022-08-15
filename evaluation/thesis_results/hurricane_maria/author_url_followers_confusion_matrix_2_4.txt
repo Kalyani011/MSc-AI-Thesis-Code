@@ -1,0 +1,1 @@
+{'informative': array([1127,  774], dtype=int64), 'not_informative': array([529, 544], dtype=int64), 'True Positives': 1127, 'False Negatives': 774, 'False Positives': 529, 'True Negatives': 544}
