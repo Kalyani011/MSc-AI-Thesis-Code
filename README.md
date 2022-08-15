@@ -28,6 +28,9 @@ The similarity_score_calculation.ipynb file generates a list of credibility scor
 
 7. analyse_overlapping_tweets.ipynb file can be used to check the informativeness of tweets extracted as core tweets.
 
+# Evaluation:
+
+The evaluation folder contains the original evaluation results obtained by running the thesis approach, supervised approach, and reliability check run on all climate event datasets contained in CrisisMMD.
 
 # References:
 [1] “Crisismmd: Multimodal crisis dataset,” [Online]. Available: https://crisisnlp.qcri.org/crisismmd
